@@ -24,14 +24,14 @@
     align-items: center;
     justify-content: center;
 }
-.menus li{
+.menus .list{
     list-style: none;
     font-size: 20px;
     cursor: pointer;
     text-decoration: none;
     color: white;
 }
-ul li:hover{
+ul .list:hover{
     background-color: green;
     padding: 4px;
     padding: 5px 10px;

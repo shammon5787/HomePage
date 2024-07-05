@@ -7,10 +7,10 @@ const Navbar = () => {
         <nav className="navbar">
             <span className='logo'>PAK</span>
                 <ul className='menus'>
-                    <li>Home</li>
-                    <li>Explorer</li>
-                    <li>About</li>
-                    <li>Contact</li>
+                    <li className='list'>Home</li>
+                    <li className='list'>Explorer</li>
+                    <li className='list'>About</li>
+                    <li className='list'>Contact</li>
                 </ul>
         </nav>
     </div>
